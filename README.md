@@ -1,3 +1,7 @@
+# Archived
+
+This has been archived and will no longer be maintained. Please use [three_js](https://github.com/Knightro63/three_js) in the future.
+
 # Flutter Cube
 
 [![pub package](https://img.shields.io/pub/v/flutter_cube.svg)](https://pub.dev/packages/flutter_cube)
@@ -10,7 +14,7 @@ Add flutter_cube as a dependency in your pubspec.yaml file.
 
 ```yaml
 dependencies:
-  flutter_cube: ^0.1.0
+  flutter_cube: ^0.2.0
 ```
 
 Add Wavefront's object files to assets.
